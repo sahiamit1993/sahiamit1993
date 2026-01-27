@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amit.
-- 👀 I’m interested in data handling.  
+- 👀 I’m interested in data handling and Automations.  
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 you can reach me with amitjsr831003@gmail.com
